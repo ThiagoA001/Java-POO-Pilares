@@ -209,11 +209,15 @@ Se define **qué debe hacerse**, pero no **cómo se hace**.
 # Preguntas de reflexion
 
 1.  ¿Qué problema resuelve la encapsulación?
+   La encapsulación resuelve el problema del acceso descontrolado y la modificación accidental de los datos internos de un objeto, protegiendo su integridad.
 2.  ¿Cuál es la diferencia entre clase padre y clase hija?
+   La clase padre es la encargada de heredar caracteristicas a la clase hijo, este ultimo las recibe
 3.  ¿Qué significa polimorfismo?
+   El polimorfismo significa que un metodo puede comportarse de distintas formas dependiendo el objeto que lo utilice
 4.  ¿Qué ventaja tiene la abstracción?
+   la ventaja que posee la abstracción reduce la complejidad, hace el codigo mas facil de entender y facilita el mantenimiento
 5.  ¿En qué casos usarías herencia en un sistema real?
-
+lo utilizaria en caso de que las clases necesiten compartir varias cosas en comun
 ------------------------------------------------------------------------
 
 # Actividad práctica
